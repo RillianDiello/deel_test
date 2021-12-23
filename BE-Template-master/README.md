@@ -71,8 +71,6 @@ The exercise requires [Node.js](https://nodejs.org/en/) to be installed. We reco
 
 Below is a list of the required API's for the application.
 
-  
-
 
 1. ***GET*** `/contracts/:id` - This API is broken 😵! it should return the contract only if it belongs to the profile calling. better fix that!
 
@@ -119,19 +117,8 @@ Given the time expectations of this exercise, we don't expect anyone to submit a
 It would be great for example if you'd write some unit test / simple frontend demostrating calls to your fresh APIs.
 
 
-## Next Steps
-
-* I changed some files to improve the code organization. But I have some changes that I haven't completed, like: creating a separate file for each database model.
-
-* Make a little documentation using a Swagger (https://swagger.io/docs/open-source-tools/swagger-editor)
-
-* Do unit tests using Jest (https://jestjs.io/)
-  
-
 ## Submitting the Assignment
 
-When you have finished the assignment, create a github repository and send us the link.
-
-  
+When you have finished the assignment, create a github repository and send us the link.  
 
 Thank you and good luck! 🙏
